@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(230, 149, 58);
+}
+section {height: 600px;
+margin: auto;}
+p {
+    color: black;
+    font-size: 1.5rem;
+}
+.placas1 {
+    font-size: 3rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(71, 77, 71);
+}
+.img-item {
+    height: 250px;
+    width: auto;
+    margin-bottom: 20px;
+}
+.loja:hover {
+    color: rgb(172, 169, 169);
+    
+}
+.linkloja {
+    text-decoration: none;
+}
